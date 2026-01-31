@@ -8,10 +8,15 @@ The goal is to classify text comments into:
 - Non-bullying
 
 ## Dataset
-- Text data loaded from an Excel file.
-- Preprocessing includes:
-  - Emoji to text conversion
-  - Label encoding
+- The dataset consists of YouTube comments written in both **English and Hinglish**.
+- It contains labeled samples for:
+  - Bullying  
+  - Non-bullying  
+- Text preprocessing includes:
+  - Emoji to text conversion  
+  - Label encoding  
+- The dataset is used for training and evaluating multiple machine learning and deep learning models.
+
 
 ## Models Implemented
 - Logistic Regression (TF-IDF)
