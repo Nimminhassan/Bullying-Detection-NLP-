@@ -39,5 +39,5 @@ Python, Pandas, Scikit-learn, PyTorch, Hugging Face Transformers, Matplotlib, TF
 ## Future Work
 - Try larger transformer models (BERT, RoBERTa)
 - Deploy as a web application using Streamlit
-# Bullying Detection-NLP
+# Bullying-Detection-NLP
 Bullying detection of Youtube comments using machine learning and deep learning models
